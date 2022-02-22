@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: /private-policy/
+
 <p><strong>Privacy Policy for Webcam Setting Pro</strong></p>
 <p><br></p>
 <p>My Website one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by My Website and how we use it.</p>
